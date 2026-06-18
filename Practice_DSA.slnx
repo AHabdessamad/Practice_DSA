@@ -1,1 +1,5 @@
-<Solution />
+<Solution>
+  <Folder Name="/Stack/">
+    <File Path="ValidParantheses.txt" />
+  </Folder>
+</Solution>
