@@ -1,5 +1,8 @@
 <Solution>
   <Folder Name="/Stack/">
-    <File Path="ValidParantheses.txt" />
+    <File Path="DailyTemperatures.cpp" />
+    <File Path="HtmlTagValidator.cpp" />
+    <File Path="ReversePolishNotation.cpp" />
+    <File Path="ValidParantheses.cpp" />
   </Folder>
 </Solution>
